@@ -53,7 +53,8 @@ Like open source sharing<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZN
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igarashi-Chiduru&hide=html&theme=radical&layout=compact" />
 </a>
 
+<img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/qb.gif" alt="魔法少女QB" height="60" align="right"/>
 Email address welcome to contact [Email](2545369032@qq.com) 💌
 
-In Shenzhen, welcome to play with me:video_game:
+In Shenzhen, welcome to play with me 🎮
 
