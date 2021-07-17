@@ -1,6 +1,6 @@
-### About me：
+<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> **Hi there, I'm Igarashi**，Is a python website developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ，Toss the front end if I am free [`Vue`, `React`]
 
-<img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> **Hi there, I'm Igarashi**，Is a python website developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> ，空闲就折腾前端: Vue/React ，喜欢开源分享；<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+Like open source sharing<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 <!--
 **IgarashiToure/IgarashiToure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,7 +26,6 @@ Here are some ideas to get you started:
 
 ### framework：
 
-#### backend：
 <a href="https://www.djangoproject.com/">
   <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/django.png" alt="FastApi" height="50"/>
 </a>
@@ -38,7 +37,6 @@ Here are some ideas to get you started:
 </a>
 <br/>
 
-#### frontend：
 <a href="https://v3.cn.vuejs.org/">
   <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/vue.png" alt="Vue" height="50"/>
 </a>
@@ -59,11 +57,7 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgarashiToure&hide=html&theme=radical&layout=compact" />
 </a>
 
-### Connect with me
-
 Email address welcome to contact [Email](2545369032@qq.com) 💌
-
-...
 
 In Shenzhen, welcome to play with me:video_game:
 
