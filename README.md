@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ### My profile：
 
-<a href="https://github.com/IgarashiToure">
+<a href="https://github.com/Igarashi-Chiduru">
   <img height="180em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Igarashi-Chiduru&show_icons=true" alt="Igarashi's GitHub Stats" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igarashi-Chiduru&hide=html&theme=radical&layout=compact" />
 </a>
