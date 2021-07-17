@@ -27,34 +27,34 @@ Here are some ideas to get you started:
 ### framework：
 
 <a href="https://www.djangoproject.com/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/django.png" alt="FastApi" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/django.png" alt="FastApi" height="50"/>
 </a>
 <a href="https://www.tornadoweb.org/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/tornado.png" alt="FastApi" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/tornado.png" alt="FastApi" height="50"/>
 </a>
 <a href="https://fastapi.tiangolo.com/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/fastapi.png" alt="FastApi" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/fastapi.png" alt="FastApi" height="50"/>
 </a>
 <br/>
 
 <a href="https://v3.cn.vuejs.org/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/vue.png" alt="Vue" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/vue.png" alt="Vue" height="50"/>
 </a>
 <a href="https://quasar.dev/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/quasar.png" alt="React" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/quasar.png" alt="React" height="50"/>
 </a>
 <a href="https://facebook.github.io/react/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/react.png" alt="React" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/react.png" alt="React" height="50"/>
 </a>
 <a href="https://umijs.org/">
-  <img src="https://raw.githubusercontent.com/IgarashiToure/HuanPlan/master/note/public/img/umi.png" alt="React" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/umi.png" alt="React" height="50"/>
 </a>
 
 ### My profile：
 
 <a href="https://github.com/IgarashiToure">
-  <img height="180em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=IgarashiToure&show_icons=true" alt="Igarashi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgarashiToure&hide=html&theme=radical&layout=compact" />
+  <img height="180em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Igarashi-Chiduru&show_icons=true" alt="Igarashi's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igarashi-Chiduru&hide=html&theme=radical&layout=compact" />
 </a>
 
 Email address welcome to contact [Email](2545369032@qq.com) 💌
