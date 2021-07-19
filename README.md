@@ -50,7 +50,7 @@ Like open source sharing<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZN
 
 <a href="https://github.com/Igarashi-Chiduru">
   <img height="180em" src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=Igarashi-Chiduru&show_icons=true" alt="Igarashi's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igarashi-Chiduru&hide=html&theme=radical&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igarashi-Chiduru&hide=html,less&theme=radical&layout=compact" />
 </a>
 
 <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/qb.gif" alt="魔法少女QB" height="60" align="right"/>
