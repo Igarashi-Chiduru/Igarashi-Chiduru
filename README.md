@@ -23,7 +23,7 @@ Like open source sharing<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZN
 ### framework：
 
 <a href="https://www.djangoproject.com/">
-  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/django.png" alt="Django" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/Django.png" alt="Django" height="50"/>
 </a>
 <a href="https://www.tornadoweb.org/">
   <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/tornado.png" alt="Tornado" height="50"/>
