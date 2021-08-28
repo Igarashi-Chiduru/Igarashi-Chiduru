@@ -23,10 +23,10 @@ Like open source sharing<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZN
 ### framework：
 
 <a href="https://www.djangoproject.com/">
-  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/django.png" alt="FastApi" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/django.png" alt="Django" height="50"/>
 </a>
 <a href="https://www.tornadoweb.org/">
-  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/tornado.png" alt="FastApi" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/tornado.png" alt="Tornado" height="50"/>
 </a>
 <a href="https://fastapi.tiangolo.com/">
   <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/fastapi.png" alt="FastApi" height="50"/>
@@ -37,13 +37,13 @@ Like open source sharing<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZN
   <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/vue.png" alt="Vue" height="50"/>
 </a>
 <a href="https://quasar.dev/">
-  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/quasar.png" alt="React" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/quasar.png" alt="quasar" height="50"/>
 </a>
 <a href="https://facebook.github.io/react/">
   <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/react.png" alt="React" height="50"/>
 </a>
 <a href="https://umijs.org/">
-  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/umi.png" alt="React" height="50"/>
+  <img src="https://raw.githubusercontent.com/Igarashi-Chiduru/HuanPlan/master/note/public/img/umi.png" alt="umijs" height="50"/>
 </a>
 
 ### My profile：
